@@ -1,8 +1,41 @@
-# React + Vite
+# 🚀 Cadastro-Usuarios 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório contém um projeto desenvolvido utilizando React. Neste arquivo README, você encontrará um guia passo a passo para abrir o projeto em seu ambiente local.
 
-Currently, two official plugins are available:
+## Pré-requisitos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Antes de começar, verifique se você possui a seguinte ferramenta instaladas em sua máquina:
+
+- Node.js
+
+## 1️⃣ Passo 1: Clonar o repositório
+
+Comece clonando este repositório para sua máquina local. Abra o terminal e execute o seguinte comando:
+
+```bash
+git clone https://github.com/francisco-jose-vieira/Cadastro-Usuarios.git
+```
+
+Isso criará uma cópia local do repositório em seu ambiente.
+
+## 2️⃣ Passo 2: Instalar dependências
+
+Navegue até o diretório raiz do projeto e execute o seguinte comando para instalar as dependências do Node.js:
+
+```bash
+cd Cadastro-Usuarios
+npm install ou npm i
+```
+
+Esse comando irá ler o arquivo `package.json` e instalar todas as dependências necessárias para o projeto.
+
+## 3️⃣ Passo 3: Iniciar o projeto
+
+Para iniciar o projeto, execute o seguinte comando:
+
+```bash
+npm run dev
+```
+
+Isso iniciará o servidor e você poderá acessá-lo através do seu navegador no endereço `http://localhost:3000`.
+
